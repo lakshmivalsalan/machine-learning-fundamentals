@@ -3,4 +3,7 @@
 Practice notebooks and task-based ML exercises.
 
 ## Notebooks
-- **breast_cancer_classification.ipynb** — Classification on the Wisconsin Breast Cancer dataset
+
+- breast_cancer_classification.ipynb — Classification on the Wisconsin Breast Cancer dataset
+- Predict_customerChurn.ipynb — Customer churn prediction using machine learning
+  
